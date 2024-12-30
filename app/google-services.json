@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "401058105261",
+    "firebase_url": "https://av-messenger-9e5e8-default-rtdb.firebaseio.com",
+    "project_id": "av-messenger-9e5e8",
+    "storage_bucket": "av-messenger-9e5e8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:401058105261:android:924351b355591412510324",
+        "android_client_info": {
+          "package_name": "com.fabiha.avmessenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "401058105261-ufer402hhj815ogg9tqf6lfuvrf5hqs9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fabiha.avmessenger",
+            "certificate_hash": "e2453bba977873dc70d8c16b74d6a7c53b76b966"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSMV7zp-Kvlq6pwRs44CDex5Ma87Pdneg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
