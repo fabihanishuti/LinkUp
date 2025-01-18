@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace 'com.fabiha.avmessenger'
+    namespace 'com.fabiha.LinkUp'
     compileSdk 34
 
     defaultConfig {
-        applicationId "com.fabiha.avmessenger"
+        applicationId 'com.fabiha.LinkUp'
         minSdk 31
         targetSdk 34
         versionCode 1
@@ -46,6 +46,7 @@ dependencies {
     implementation 'com.intuit.sdp:sdp-android:1.1.0'
     implementation 'de.hdodenhof:circleimageview:3.1.0'
     implementation 'com.squareup.picasso:picasso:2.8'
+    implementation libs.firebase.functions
 
     // Testing Libraries
     testImplementation 'junit:junit:4.13.2'

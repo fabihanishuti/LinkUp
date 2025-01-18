@@ -1,31 +1,22 @@
 {
   "project_info": {
-    "project_number": "401058105261",
-    "firebase_url": "https://av-messenger-9e5e8-default-rtdb.firebaseio.com",
-    "project_id": "av-messenger-9e5e8",
-    "storage_bucket": "av-messenger-9e5e8.firebasestorage.app"
+    "project_number": "646889427017",
+    "firebase_url": "https://linkup-adac5-default-rtdb.firebaseio.com",
+    "project_id": "linkup-adac5",
+    "storage_bucket": "linkup-adac5.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:401058105261:android:924351b355591412510324",
+        "mobilesdk_app_id": "1:646889427017:android:1933e547a2ab411b566f98",
         "android_client_info": {
-          "package_name": "com.fabiha.avmessenger"
+          "package_name": "com.fabiha.LinkUp"
         }
       },
-      "oauth_client": [
-        {
-          "client_id": "401058105261-ufer402hhj815ogg9tqf6lfuvrf5hqs9.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.fabiha.avmessenger",
-            "certificate_hash": "e2453bba977873dc70d8c16b74d6a7c53b76b966"
-          }
-        }
-      ],
+      "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyDSMV7zp-Kvlq6pwRs44CDex5Ma87Pdneg"
+          "current_key": "AIzaSyCXH9H39d0YemTHFxvClxuliEyDDw6Rrfk"
         }
       ],
       "services": {

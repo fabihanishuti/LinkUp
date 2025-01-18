@@ -1,7 +1,7 @@
-package com.fabiha.avmessenger;
+package com.fabiha.LinkUp;
 
-import static com.fabiha.avmessenger.chatwindo.reciverIImg;
-import static com.fabiha.avmessenger.chatwindo.senderImg;
+import static com.fabiha.LinkUp.chatwindo.reciverIImg;
+import static com.fabiha.LinkUp.chatwindo.senderImg;
 
 import android.app.AlertDialog;
 import android.content.Context;

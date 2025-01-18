@@ -1,4 +1,4 @@
-package com.fabiha.avmessenger;
+package com.fabiha.LinkUp;
 
 public class msgModelclass {
     private String message;
